@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ストリートライト",
+  "base_artist": "加賀(ネギシャワーP)",
+  "createdAt": "2026-01-12T12:31:51.747006Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ストリートライト",
+      "artist": "加賀(ネギシャワーP) Feat. 初音ミク, 鏡音リン, 鏡音レン, 巡音ルカ, KAITO, MEIKO",
+      "has_synced": false,
+      "path": "select/pl_01_ストリートライト_加賀(ネギシャワーP)_Feat._初音ミク,_鏡音リン,_鏡音レン,_巡音ルカ,_KAITO,_MEIKO.txt"
+    }
+  ]
+}
